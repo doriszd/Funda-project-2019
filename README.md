@@ -1,4 +1,8 @@
-# Funda-project-2019
+# Fundamentals of Data Analysis - Tips dataset
+
+![tips](tips_pic.jpg)
+
+
 
 Project for Fundamentals of Data analysis at Galway - Mayo Institute of Technology. The aim of this project is to look into "Tips" dataset and show its features through Python packages, seaborn and Jupyter. 
 
