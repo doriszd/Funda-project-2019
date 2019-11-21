@@ -76,11 +76,11 @@ Introduction
 2. Aims of this research
 3. "Tips" dataset
 4. Methods
-..4.1. Pandas
-..4.2. Seaborn
-..4.3. Matplotlib
-..4.4. Jupyter notebook
-..4.5. GitHub
+.. 4.1. Pandas
+.. 4.2. Seaborn
+.. 4.3. Matplotlib
+.. 4.4. Jupyter notebook
+.. 4.5. GitHub
 5. Descriptive analysis
 5.1. Variables "total_bill", "tip" and "size" described
 5.2. Variable "smoker" described
