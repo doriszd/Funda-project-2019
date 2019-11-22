@@ -90,6 +90,10 @@ There are 5 main aims in this project:
 
 # Conclusion
 
+Results showed that the average bill is 19.78 dollars, and the average tip is 2.99 dollars (15.11%). Since average tip in USA is between 15% - 20% depending on the location, type of the restaurant and other attributes we can say that the findings of this research are similar to what has been proved before in other researches. We have to have in mind that this data was recorded in 1990's which might be the reason why it corresponds to the lower end of this range (15%), especially because the amount of tip has been increasing in last couple of decades. Although the average tip is in expected range (15-20%) we have to take into consideration that the restaurant where data was recorded was in suburban shopping mall, so slightly lower average tip is not that surprising. The results might have been different if data was recorded in 5 star restaurant.
+
+Full analysis on tips find here: 
+
 
 
 # Table of contents
