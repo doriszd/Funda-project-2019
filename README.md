@@ -65,9 +65,32 @@ For more information about Jupyter notebook go to: https://jupyter.readthedocs.i
 
 # Downloading the repository
 
-# About Project
+1. Go to GitHub.
+2. Navigate to the main page of the repository:https://github.com/doriszd/Funda-project-2019
+3. Under the repository name, click Clone or download
+4. Save the repository to a local folder location on your computer.
+5. Navigate to your target directory in the command line
+6. To add new content on gitHub type add .
+7. Type git commit -m "Write a message here"
+8. To send it to gitHub type git push
+
+# About this Project
+
+There are 5 main aims in this project:
+
+##### 1. The first aim of this project is to determine the relationship between the total bill and the tip. It would be interesting to see what percent of money customers leave to tip their waiter.
+
+##### 2. Determine who gives higher tips, men or women, taking into consideration total bill and their tip.
+
+##### 3. Another aim is to analyse the day of the week considering the amount of the tip. Only tips from Thursday to Sunday have been recorded in this dataset. 
+
+##### 4. Look into the relationship between the time of the day (day or night) when customers left the restaurant and the tip.
+
+##### 5. See the relationship between size of the group and the tip.¶
 
 # Conclusion
+
+
 
 # Table of contents
 
@@ -93,4 +116,73 @@ Introduction
 7. Interpretation
 
 
+
 # References
+
+https://www.researchgate.net/publication/23748773_The_implications_of_tipping_for_economics_and_management
+
+https://scholarship.sha.cornell.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1036&context=articles
+
+https://pdfs.semanticscholar.org/20f8/54f6aad4533f2069a023ebc32ec78c43dd92.pdf
+
+https://ecommons.luc.edu/cgi/viewcontent.cgi?article=4067&context=luc_theses
+
+https://scholarship.sha.cornell.edu/cgi/viewcontent.cgi?article=1102&context=articles
+
+https://learningenglish.voanews.com/a/who-pays-better-tips-men-or-women/3941732.html
+
+https://www.tripadvisor.ie/Travel-g191-s606/United-States:Tipping.And.Etiquette.html
+
+https://www.eater.com/2017/1/24/14365152/best-tips-servers-sunday
+
+https://www.monster.com/career-advice/article/waiters-earn-tips-0217
+
+http://money.com/money/3394185/tipping-myths-realities-history/
+
+https://www.motherjones.com/environment/2016/04/restaurants-tipping-racist-origins-saru-jayaraman-forked/
+
+https://core.ac.uk/download/pdf/145015505.pdf
+
+https://statistics.laerd.com/statistical-guides/descriptive-inferential-statistics.php
+
+https://pandas.pydata.org/index.html
+
+https://stackabuse.com/beginners-tutorial-on-the-pandas-python-library/
+
+https://elitedatascience.com/python-seaborn-tutorial
+
+https://matplotlib.org/
+
+https://jupyter-notebook.readthedocs.io/en/stable/notebook.html
+
+https://towardsdatascience.com/intro-to-descriptive-statistics-252e9c464ac9
+
+https://en.wikipedia.org/wiki/GitHub
+
+https://apiumhub.com/tech-blog-barcelona/using-github/
+
+https://pandas.pydata.org/pandas-docs/version/0.17.0/generated/pandas.DataFrame.shape.html
+
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.iloc.html
+
+https://towardsdatascience.com/hitchhikers-guide-to-exploratory-data-analysis-6e8d896d3f7e
+
+https://www.investopedia.com/terms/d/descriptive_statistics.asp
+
+https://dfrieds.com/data-analysis/value-counts-python-pandas
+
+https://matplotlib.org/3.1.1/gallery/pie_and_polar_charts/pie_features.html#sphx-glr-gallery-pie-and-polar-charts-pie-features-py
+
+https://towardsdatascience.com/hitchhikers-guide-to-exploratory-data-analysis-6e8d896d3f7e
+
+http://seaborn.pydata.org/generated/seaborn.pairplot.html
+
+https://www.thebalancesmb.com/what-is-simple-linear-regression-2296697
+
+https://www.surveygizmo.com/resources/blog/regression-analysis/
+
+http://seaborn.pydata.org/generated/seaborn.regplot.html
+
+http://seaborn.pydata.org/generated/seaborn.lmplot.html
+
+https://seaborn.pydata.org/tutorial/regression.html
