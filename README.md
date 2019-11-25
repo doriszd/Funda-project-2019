@@ -86,7 +86,7 @@ There are 5 main aims in this project:
 
 ##### 4. Look into the relationship between the time of the day (day or night) when customers left the restaurant and the tip.
 
-##### 5. See the relationship between size of the group and the tip.¶
+##### 5. See the relationship between size of the group and the tip.
 
 # Conclusion
 
